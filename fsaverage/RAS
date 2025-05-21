@@ -1,0 +1,8 @@
+eval(['!mris_info --v ' mat2str(VI) ' ' target]);
+'mris_info' is not recognized as an internal or external command, 
+operable program or batch file. 
+diary off
+'mris_info' is not recognized as an internal or external command, 
+operable program or batch file. 
+'mris_info' is not recognized as an internal or external command, 
+operable program or batch file. 
